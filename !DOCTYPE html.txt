@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: neon-green;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+img {
+    width: 300px;
+}
